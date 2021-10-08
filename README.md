@@ -14,7 +14,5 @@ I'm a curious developer with > 10 years of experience with UI Design and front-e
 
 #### :muscle: Things I am challenging myself with:
 - Reading at least 10 pages of a non-technical book a day.
-- Coding at least 2 hours a day.
-- Exercising 3 days a week.
-- Improving my CV with some certifications apart of university degree.
+- Cycling 3 times a week.. [always a challenge](https://www.strava.com/athletes/27958955)
 - Learn a new recipe every weekend.
