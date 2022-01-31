@@ -7,11 +7,11 @@
 I'm a curious developer with > 10 years of experience with web development and front-end engineering. I had the opportunity to work on different projects - such as Web, Mobile, and CLI - and learn different ways of building things.
 
 #### 🌱 Things I am currently working on:
-- Learning Python.
 - Studing for AWS Solutions Architect Certification.
-- Structuring CI with Probot and Github Actions
-- Improving NodeJs and Microservices development skills.
+- Structuring CI with Probot and Github Actions.
+- Leaning AWS SDK.
 - Taking French / English classes.
+- Studing Node and Python microservices.
 
 #### :muscle: Things I am challenging myself with:
 - Reading at least 10 pages of a non-technical book a day.
