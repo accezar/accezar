@@ -17,3 +17,13 @@ I'm a curious developer with > 10 years of experience with web development and f
 - Reading at least 10 pages of a non-technical book a day.
 - Cycling 3 times a week... [always a challenge](https://www.strava.com/athletes/27958955)
 - Dance classes.
+
+#### 📖 Current reading list:
+- [ ] High output management, Andrew S. Grove 🕠
+- [ ] The Manager's Path, Camille Fournier 🕠
+- [ ] The Pragmatic Programmer, Andy Hunt & Dave Thomas 🕠
+
+#### 📚 Owned, but didn't read it yet:
+- [ ] Team Topologies, Mattew Skelton
+- [ ] The Mythical Man-Month, Frederick P. Brooks
+- [ ] Factfulness, Hans Rosling
