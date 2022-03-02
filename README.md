@@ -19,11 +19,6 @@ I'm a curious developer with > 10 years of experience with web development and f
 - Dance classes.
 
 #### 📖 Current reading list:
-- [ ] High output management, Andrew S. Grove 🕠
+- [ ] High Output Management, Andrew S. Grove 🕠
 - [ ] The Manager's Path, Camille Fournier 🕠
 - [ ] The Pragmatic Programmer, Andy Hunt & Dave Thomas 🕠
-
-#### 📚 Owned, but didn't read it yet:
-- [ ] Team Topologies, Mattew Skelton
-- [ ] The Mythical Man-Month, Frederick P. Brooks
-- [ ] Factfulness, Hans Rosling
